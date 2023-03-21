@@ -23,3 +23,6 @@ And in *script.py*, you just need to add your target's email address, your spoof
 
 [GNU General Public License v3.0](https://github.com/VirusZzHkP/Email-Spoofing/blob/main/LICENSE)
 
+### Credits
+XIT
+
