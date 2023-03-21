@@ -6,7 +6,7 @@
 Email spoofing includes sending emails with addresses that appear to be from someone else which we don’t have access in real. This is mainly done by changing the header information of the email sender to make it look like it came from a different legit sender. Email spoofing can be used for a variety of reasons, like phishing attacks, spam, and social engineering.
 
 ### Why is Email Spoofing Done?
-Email spoofing can be done for both malicious and non-malicious purposes. Example: a company might use email spoofing to send emails from a generic email address (“admin@xitcompany.com”) instead of an employee’s personal email address. On the other hand, spammers and scammers may use email spoofing to trick recipients into clicking on links or opening attachments that contain malware.
+Email spoofing can be done for both malicious and non-malicious purposes. Example: a company might use email spoofing to send emails from a generic email address (“admin@example.com”) instead of an employee’s personal email address. On the other hand, spammers and scammers may use email spoofing to trick recipients into clicking on links or opening attachments that contain malware.
 
 ### Requirements for Email Spoofing
 Below are the Requirements for Email Spoofing:
